@@ -12,7 +12,7 @@
   "dependencies": {
     "bluebird": "^3.5.3",
     "body-parser": "^1.18.3",
-    "mongoose": "^5.4.14",
+    "mongoose": "^9.0.1",
     "socket.io": "^2.2.0",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
